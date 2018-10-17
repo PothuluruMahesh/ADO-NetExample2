@@ -1,0 +1,7 @@
+F:\JAVA\C#\RxNetwithADO\ADOexamples\bin\Debug\ADOexamples.exe.config
+F:\JAVA\C#\RxNetwithADO\ADOexamples\bin\Debug\ADOexamples.exe
+F:\JAVA\C#\RxNetwithADO\ADOexamples\bin\Debug\ADOexamples.pdb
+F:\JAVA\C#\RxNetwithADO\ADOexamples\obj\Debug\ADOexamples.csprojAssemblyReference.cache
+F:\JAVA\C#\RxNetwithADO\ADOexamples\obj\Debug\ADOexamples.csproj.CoreCompileInputs.cache
+F:\JAVA\C#\RxNetwithADO\ADOexamples\obj\Debug\ADOexamples.exe
+F:\JAVA\C#\RxNetwithADO\ADOexamples\obj\Debug\ADOexamples.pdb
